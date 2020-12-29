@@ -1,0 +1,16 @@
+port-qp\blinky.o: ..\..\blinky.c
+port-qp\blinky.o: ..\..\qpc-master\include\qpc.h
+port-qp\blinky.o: ..\..\qpc-master\ports\arm-cm\qk\arm\qf_port.h
+port-qp\blinky.o: ..\..\qpc-master\ports\arm-cm\qk\arm\qep_port.h
+port-qp\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+port-qp\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+port-qp\blinky.o: ..\..\qpc-master\include\qep.h
+port-qp\blinky.o: ..\..\qpc-master\ports\arm-cm\qk\arm\qk_port.h
+port-qp\blinky.o: ..\..\qpc-master\include\qk.h
+port-qp\blinky.o: ..\..\qpc-master\include\qequeue.h
+port-qp\blinky.o: ..\..\qpc-master\include\qmpool.h
+port-qp\blinky.o: ..\..\qpc-master\include\qpset.h
+port-qp\blinky.o: ..\..\qpc-master\include\qf.h
+port-qp\blinky.o: ..\..\qpc-master\include\qassert.h
+port-qp\blinky.o: ..\..\qpc-master\include\qs_dummy.h
+port-qp\blinky.o: ..\..\bsp.h

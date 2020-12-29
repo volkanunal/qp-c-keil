@@ -1,0 +1,15 @@
+port-qp\qk.o: ..\..\qpc-master\src\qk\qk.c
+port-qp\qk.o: ..\..\qpc-master\ports\arm-cm\qk\arm\qf_port.h
+port-qp\qk.o: ..\..\qpc-master\ports\arm-cm\qk\arm\qep_port.h
+port-qp\qk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+port-qp\qk.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+port-qp\qk.o: ..\..\qpc-master\include\qep.h
+port-qp\qk.o: ..\..\qpc-master\ports\arm-cm\qk\arm\qk_port.h
+port-qp\qk.o: ..\..\qpc-master\include\qk.h
+port-qp\qk.o: ..\..\qpc-master\include\qequeue.h
+port-qp\qk.o: ..\..\qpc-master\include\qmpool.h
+port-qp\qk.o: ..\..\qpc-master\include\qpset.h
+port-qp\qk.o: ..\..\qpc-master\include\qf.h
+port-qp\qk.o: ..\..\qpc-master\src\qf_pkg.h
+port-qp\qk.o: ..\..\qpc-master\include\qassert.h
+port-qp\qk.o: ..\..\qpc-master\include\qs_dummy.h
